@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffff66a4-29a2-40e4-9d7c-438be236ff84" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../30/.idea/30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30/a_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../30/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/.idea/cmp104_assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/largest_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/marvis09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/num_reverser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmp104_assignment/sum_of_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5_password_creator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5_password_creator/.idea/day5_password_creator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5_password_creator/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5_password_creator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5_password_creator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5_password_creator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5_password_creator/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day5_password_creator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flash_card/.idea/flash_card.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flash_card/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github_tutorial/.idea/github_tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github_tutorial/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../motivational_quotes/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../password_manager/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../password_manager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../password_manager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../password_manager/.idea/password_manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../password_manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../password_manager/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../password_manager/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmp_OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cmp_OOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmp_OOP/ATM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cmp_OOP/ATM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cmp_OOP/human.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../cmp_OOP/human.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pomodoro/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pomodoro/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pomodoro/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pomodoro/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../snake_game/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../snake_game/data.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2QWrAIJWBEBP67XESvOxJdNF5vk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="birthday_wisher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffff66a4-29a2-40e4-9d7c-438be236ff84" name="Changes" comment="" />
+      <created>1685480036079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685480036079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
